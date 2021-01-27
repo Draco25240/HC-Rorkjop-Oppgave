@@ -114,6 +114,7 @@ namespace Library
             addCompanyToDB(13579,"Company3","03.03.2003");
             addCompanyToDB(24680,"Company4","04.04.2004");
             addCompanyToDB(25240,"Company5","05.05.2005");
+            addCompanyToDB(880911392,"Rørkjøp AS","10.06.1999");
         }
 
     }

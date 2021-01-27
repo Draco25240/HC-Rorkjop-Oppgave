@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HC Finnson\\Documents\\!Privat\\CV og jobbsoknad\\Intervju\\Rorkjop AS\\Simple\\Library\\Library.csproj",
+      "projectUniqueName": "C:\\Users\\HC Finnson\\Documents\\GitHub\\HC-Rorkjop-Oppgave\\Library\\Library.csproj",
       "projectName": "Library",
-      "projectPath": "C:\\Users\\HC Finnson\\Documents\\!Privat\\CV og jobbsoknad\\Intervju\\Rorkjop AS\\Simple\\Library\\Library.csproj",
+      "projectPath": "C:\\Users\\HC Finnson\\Documents\\GitHub\\HC-Rorkjop-Oppgave\\Library\\Library.csproj",
       "packagesPath": "C:\\Users\\HC Finnson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HC Finnson\\Documents\\!Privat\\CV og jobbsoknad\\Intervju\\Rorkjop AS\\Simple\\Library\\obj\\",
+      "outputPath": "C:\\Users\\HC Finnson\\Documents\\GitHub\\HC-Rorkjop-Oppgave\\Library\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HC Finnson\\AppData\\Roaming\\NuGet\\NuGet.Config"
